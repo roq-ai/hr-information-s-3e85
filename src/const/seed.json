@@ -1,0 +1,2018 @@
+[
+  {
+    "vacation": [
+      {
+        "id": "d8160bef-486b-4a90-84d8-ede651181e38",
+        "start_date": "2023-09-26T14:45:24.967Z",
+        "end_date": "2023-09-26T22:07:18.562Z",
+        "days_taken": 96640,
+        "created_at": "2023-09-27T09:03:48.696Z",
+        "updated_at": "2023-09-27T03:15:34.981Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5c7b13de-ce62-4b65-8444-1155362e5815",
+        "start_date": "2023-09-27T00:10:21.331Z",
+        "end_date": "2023-09-27T01:41:16.263Z",
+        "days_taken": 56470,
+        "created_at": "2023-09-27T05:16:45.023Z",
+        "updated_at": "2023-09-27T00:20:12.755Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c5523912-15f4-45f6-a53b-f54703e56a93",
+        "start_date": "2023-09-27T04:43:50.468Z",
+        "end_date": "2023-09-27T08:27:36.354Z",
+        "days_taken": 16067,
+        "created_at": "2023-09-26T14:34:11.841Z",
+        "updated_at": "2023-09-27T01:58:42.175Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b3c8b2e7-d66c-4fc4-bba8-37c1d43eb86c",
+        "start_date": "2023-09-27T06:52:05.071Z",
+        "end_date": "2023-09-27T13:53:54.226Z",
+        "days_taken": 93002,
+        "created_at": "2023-09-26T15:24:53.847Z",
+        "updated_at": "2023-09-26T21:59:16.135Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c726bba9-8c29-4a83-9e54-fdd748ed10bf",
+        "start_date": "2023-09-27T05:01:35.368Z",
+        "end_date": "2023-09-27T11:59:46.398Z",
+        "days_taken": 38487,
+        "created_at": "2023-09-27T07:02:08.998Z",
+        "updated_at": "2023-09-26T17:33:14.230Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "team_member": [
+      {
+        "id": "5a763481-6cc7-4009-a78e-3d123e7a9592",
+        "role": "Manager",
+        "join_date": "2023-09-26T15:45:09.451Z",
+        "created_at": "2023-09-26T23:05:07.531Z",
+        "updated_at": "2023-09-26T15:07:13.986Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9bbf92ff-ea2b-48df-86dc-4589da7928ee",
+        "role": "Developer",
+        "join_date": "2023-09-26T16:33:38.287Z",
+        "created_at": "2023-09-26T14:24:57.840Z",
+        "updated_at": "2023-09-27T07:22:27.785Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2912ba2e-db7c-4b43-b9b6-c31005c51c71",
+        "role": "Salesperson",
+        "join_date": "2023-09-27T06:11:43.105Z",
+        "created_at": "2023-09-27T08:14:04.109Z",
+        "updated_at": "2023-09-27T08:34:46.030Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1fc9c6ff-0d6d-42a7-a522-0cdc7b7929eb",
+        "role": "Designer",
+        "join_date": "2023-09-27T06:28:30.254Z",
+        "created_at": "2023-09-27T06:23:52.185Z",
+        "updated_at": "2023-09-26T17:43:00.112Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "949f6f63-7ab2-4d47-b06f-f5d2c3a40af5",
+        "role": "Accountant",
+        "join_date": "2023-09-27T13:40:42.554Z",
+        "created_at": "2023-09-26T18:27:30.498Z",
+        "updated_at": "2023-09-27T14:03:11.756Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "b9c9adfb-0595-44a6-ac19-d41cbe7c51b9",
+        "gross_pay": 56344,
+        "net_pay": 22390,
+        "taxes": 57398,
+        "deductions": 4688,
+        "pay_period": "2023-09-26T14:46:58.750Z",
+        "created_at": "2023-09-26T15:33:19.223Z",
+        "updated_at": "2023-09-27T05:11:51.164Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e783552e-2d23-4f53-b1ff-d48b4a6ddc88",
+        "gross_pay": 36248,
+        "net_pay": 89860,
+        "taxes": 9666,
+        "deductions": 2185,
+        "pay_period": "2023-09-27T02:10:13.459Z",
+        "created_at": "2023-09-27T08:33:54.273Z",
+        "updated_at": "2023-09-27T00:43:10.422Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "46fa89cf-8f69-4720-b5ea-933196cd39a2",
+        "gross_pay": 32689,
+        "net_pay": 34083,
+        "taxes": 46505,
+        "deductions": 10608,
+        "pay_period": "2023-09-27T09:15:43.587Z",
+        "created_at": "2023-09-27T08:28:54.699Z",
+        "updated_at": "2023-09-26T20:31:05.957Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dfa6c0ef-b808-45a9-a9a1-56505b4dc116",
+        "gross_pay": 23176,
+        "net_pay": 58560,
+        "taxes": 44638,
+        "deductions": 34683,
+        "pay_period": "2023-09-27T09:15:20.178Z",
+        "created_at": "2023-09-26T19:47:15.402Z",
+        "updated_at": "2023-09-27T03:22:43.947Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "33070b74-eb9c-4067-bfee-20fa21144062",
+        "gross_pay": 4148,
+        "net_pay": 83184,
+        "taxes": 43004,
+        "deductions": 53803,
+        "pay_period": "2023-09-27T00:52:42.575Z",
+        "created_at": "2023-09-26T17:39:24.090Z",
+        "updated_at": "2023-09-27T13:07:49.599Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee_data": [
+      {
+        "id": "a8dcec5a-0318-4360-8fe2-99faba2f86d1",
+        "job_title": "Software Engineer",
+        "start_date": "2023-09-26T15:36:31.286Z",
+        "end_date": "2023-09-27T09:23:11.583Z",
+        "salary": 40040,
+        "created_at": "2023-09-26T20:14:11.176Z",
+        "updated_at": "2023-09-26T16:10:44.557Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f25322b1-e050-4500-b974-25df3778fcc4",
+        "job_title": "Marketing Specialist",
+        "start_date": "2023-09-27T04:57:12.320Z",
+        "end_date": "2023-09-26T15:42:59.432Z",
+        "salary": 78527,
+        "created_at": "2023-09-27T12:34:01.847Z",
+        "updated_at": "2023-09-27T03:17:03.426Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "08ee7fe5-81b5-4274-98fb-d685566c12da",
+        "job_title": "Sales Manager",
+        "start_date": "2023-09-27T08:11:30.266Z",
+        "end_date": "2023-09-27T09:42:52.230Z",
+        "salary": 82304,
+        "created_at": "2023-09-27T02:48:37.750Z",
+        "updated_at": "2023-09-27T09:21:00.091Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97fb4990-be9a-4108-a71b-ae527db7585e",
+        "job_title": "Graphic Designer",
+        "start_date": "2023-09-27T05:36:54.443Z",
+        "end_date": "2023-09-26T19:50:07.709Z",
+        "salary": 67167,
+        "created_at": "2023-09-26T18:43:21.051Z",
+        "updated_at": "2023-09-26T14:28:25.281Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dddec22a-5b23-4108-8a18-d19ac6d9b4b7",
+        "job_title": "Financial Analyst",
+        "start_date": "2023-09-27T11:49:47.109Z",
+        "end_date": "2023-09-27T05:59:29.712Z",
+        "salary": 51111,
+        "created_at": "2023-09-26T23:03:26.415Z",
+        "updated_at": "2023-09-26T23:41:22.645Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9dbb14ca-2efc-4041-b274-a827139bb398",
+        "email": "Lucile.Heidenreich12@roq.tech",
+        "firstName": "Jimmie",
+        "lastName": "Dietrich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1316344",
+        "tenantId": null
+      },
+      {
+        "reference": "eb22d500-2d2d-4dbf-8778-e27326c278e1",
+        "email": "Kayli.Pollich25@roq.tech",
+        "firstName": "Nels",
+        "lastName": "Witting",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8536122",
+        "tenantId": null
+      },
+      {
+        "reference": "223157ea-3c88-41a1-be66-93703819a090",
+        "email": "Burdette99@roq.tech",
+        "firstName": "Anderson",
+        "lastName": "Boyer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/766.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0bfc732d-2989-4b2d-a219-9726893e0813",
+        "email": "Maxine.Ritchie26@roq.tech",
+        "firstName": "Sarina",
+        "lastName": "Kohler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88278874",
+        "tenantId": null
+      },
+      {
+        "reference": "475834e2-814b-4ba5-be05-8127133f9aca",
+        "email": "Kim.Dietrich2@roq.tech",
+        "firstName": "Caitlyn",
+        "lastName": "Kilback",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/866.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "d35eda77-5ca5-4853-a057-b12d908eac44",
+        "start_date": "2023-09-27T09:51:19.057Z",
+        "end_date": "2023-09-27T11:05:08.604Z",
+        "days_taken": 44999,
+        "created_at": "2023-09-26T19:59:19.106Z",
+        "updated_at": "2023-09-26T16:43:12.106Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "68de1f7d-29d4-4372-b0dd-bacb17d80358",
+        "start_date": "2023-09-27T08:19:11.978Z",
+        "end_date": "2023-09-27T10:54:51.661Z",
+        "days_taken": 17542,
+        "created_at": "2023-09-27T03:36:54.912Z",
+        "updated_at": "2023-09-26T21:15:36.703Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f9847b3f-56fe-4f5e-8429-90663221175e",
+        "start_date": "2023-09-26T22:12:07.334Z",
+        "end_date": "2023-09-26T21:57:22.153Z",
+        "days_taken": 28521,
+        "created_at": "2023-09-26T18:10:09.496Z",
+        "updated_at": "2023-09-27T09:15:25.899Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "40e019ec-61f8-436c-b65d-bb42ac8105e8",
+        "start_date": "2023-09-27T08:41:12.555Z",
+        "end_date": "2023-09-26T18:52:22.498Z",
+        "days_taken": 33536,
+        "created_at": "2023-09-26T17:51:45.773Z",
+        "updated_at": "2023-09-26T18:13:03.938Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "412e67f1-5a31-4fb0-ac65-714c85e5b157",
+        "start_date": "2023-09-27T01:35:31.158Z",
+        "end_date": "2023-09-26T22:00:04.641Z",
+        "days_taken": 10943,
+        "created_at": "2023-09-27T08:20:19.275Z",
+        "updated_at": "2023-09-27T05:43:53.472Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "team_member": [
+      {
+        "id": "77f33485-f379-462a-b72f-5be4d2ae86e7",
+        "role": "Manager",
+        "join_date": "2023-09-27T03:57:56.613Z",
+        "created_at": "2023-09-27T00:31:44.708Z",
+        "updated_at": "2023-09-27T10:23:38.953Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5b157f0b-85b4-41c5-9d24-0a375839e49d",
+        "role": "Developer",
+        "join_date": "2023-09-27T09:33:42.804Z",
+        "created_at": "2023-09-27T12:55:12.974Z",
+        "updated_at": "2023-09-27T00:44:15.869Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dd66d6dc-ac1e-4b82-9246-ac8417435509",
+        "role": "Designer",
+        "join_date": "2023-09-26T18:38:32.480Z",
+        "created_at": "2023-09-26T19:23:11.309Z",
+        "updated_at": "2023-09-27T13:30:07.730Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "66e2298f-5e22-4984-812f-58ac0c64cdf2",
+        "role": "Analyst",
+        "join_date": "2023-09-26T18:50:46.296Z",
+        "created_at": "2023-09-26T19:18:54.131Z",
+        "updated_at": "2023-09-26T19:34:32.137Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ae9e264-feb8-49f2-b954-9836ac6d920e",
+        "role": "Coordinator",
+        "join_date": "2023-09-27T09:31:18.753Z",
+        "created_at": "2023-09-26T23:23:03.487Z",
+        "updated_at": "2023-09-26T15:49:21.983Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "08ab47ca-e352-4752-bf4a-58eb6b255fab",
+        "gross_pay": 3624,
+        "net_pay": 41695,
+        "taxes": 87345,
+        "deductions": 71599,
+        "pay_period": "2023-09-27T10:21:55.194Z",
+        "created_at": "2023-09-27T11:52:07.860Z",
+        "updated_at": "2023-09-26T18:24:12.335Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "49ff82fa-94d6-4ec6-8ad7-665e6a4acd45",
+        "gross_pay": 49364,
+        "net_pay": 48968,
+        "taxes": 24641,
+        "deductions": 98331,
+        "pay_period": "2023-09-27T00:54:04.281Z",
+        "created_at": "2023-09-26T16:51:18.418Z",
+        "updated_at": "2023-09-27T01:29:39.965Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9c54cdfc-eaf5-4535-b34e-d4f6da441709",
+        "gross_pay": 66952,
+        "net_pay": 5102,
+        "taxes": 58747,
+        "deductions": 96630,
+        "pay_period": "2023-09-26T14:36:15.505Z",
+        "created_at": "2023-09-27T06:42:04.735Z",
+        "updated_at": "2023-09-27T01:36:22.120Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "000c589c-4f01-4871-b993-758571ffa279",
+        "gross_pay": 43480,
+        "net_pay": 86703,
+        "taxes": 39340,
+        "deductions": 37726,
+        "pay_period": "2023-09-26T20:48:29.753Z",
+        "created_at": "2023-09-27T03:06:55.066Z",
+        "updated_at": "2023-09-26T15:37:38.608Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3cd8559c-9265-4d71-a84d-848bd4ceded8",
+        "gross_pay": 4266,
+        "net_pay": 74953,
+        "taxes": 61939,
+        "deductions": 19133,
+        "pay_period": "2023-09-27T01:27:32.753Z",
+        "created_at": "2023-09-27T07:35:11.915Z",
+        "updated_at": "2023-09-27T10:20:39.856Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee_data": [
+      {
+        "id": "5574851a-d7d1-43e2-aaa1-2a676d8c0c10",
+        "job_title": "Software Engineer",
+        "start_date": "2023-09-27T11:52:42.159Z",
+        "end_date": "2023-09-27T12:29:38.659Z",
+        "salary": 38725,
+        "created_at": "2023-09-27T13:41:32.848Z",
+        "updated_at": "2023-09-27T00:58:17.707Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "36f7b8aa-65ca-4107-99b2-dcb8a15a61f0",
+        "job_title": "Marketing Specialist",
+        "start_date": "2023-09-26T22:28:15.265Z",
+        "end_date": "2023-09-27T03:41:36.308Z",
+        "salary": 84584,
+        "created_at": "2023-09-27T12:31:03.901Z",
+        "updated_at": "2023-09-27T00:25:29.827Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e6beb5a-50e6-430a-9745-567ccaac1ca4",
+        "job_title": "Financial Analyst",
+        "start_date": "2023-09-27T13:30:14.342Z",
+        "end_date": "2023-09-26T17:45:58.483Z",
+        "salary": 28158,
+        "created_at": "2023-09-26T21:53:01.289Z",
+        "updated_at": "2023-09-27T06:58:23.115Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4da0fe66-9c22-479e-8a3c-e6110fe69f67",
+        "job_title": "Product Manager",
+        "start_date": "2023-09-27T05:02:58.332Z",
+        "end_date": "2023-09-26T22:23:14.500Z",
+        "salary": 49697,
+        "created_at": "2023-09-26T17:13:13.981Z",
+        "updated_at": "2023-09-26T21:03:03.115Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4376fec3-eb60-4670-a47a-8a5330d4e88b",
+        "job_title": "Sales Representative",
+        "start_date": "2023-09-27T07:21:49.451Z",
+        "end_date": "2023-09-27T11:11:09.371Z",
+        "salary": 39134,
+        "created_at": "2023-09-27T13:48:41.506Z",
+        "updated_at": "2023-09-26T18:17:31.229Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "5f773e01-21a9-4f1f-98e4-5aaaa78140aa",
+        "email": "Amina.Hane60@roq.tech",
+        "firstName": "Coy",
+        "lastName": "Homenick",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1083.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "410ae5a2-15bd-4cc1-8c70-f6c2a0517b72",
+        "email": "Nelson_Larson28@roq.tech",
+        "firstName": "Jamil",
+        "lastName": "Emmerich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/207.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0b158702-bb8c-4b90-b4ad-327994c92db8",
+        "email": "Werner.Auer@roq.tech",
+        "firstName": "Melissa",
+        "lastName": "Dooley",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/358.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "04c9d032-235d-4a0b-b8d4-bd93fb7e4712",
+        "email": "Timmy_Cartwright@roq.tech",
+        "firstName": "Dorothea",
+        "lastName": "Cormier",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34809961",
+        "tenantId": null
+      },
+      {
+        "reference": "999fe737-c70d-43cd-b864-8ec4d368263f",
+        "email": "Arvel.Bernier29@roq.tech",
+        "firstName": "Garrison",
+        "lastName": "Cormier",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1034.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "bb6f00ff-7955-471a-a433-487ec15365a0",
+        "start_date": "2023-09-26T18:33:02.945Z",
+        "end_date": "2023-09-26T15:03:54.022Z",
+        "days_taken": 80261,
+        "created_at": "2023-09-27T11:07:29.557Z",
+        "updated_at": "2023-09-26T15:12:21.286Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c10434a6-35d3-4026-8594-7c56e136619b",
+        "start_date": "2023-09-27T11:55:09.289Z",
+        "end_date": "2023-09-26T15:32:53.894Z",
+        "days_taken": 98922,
+        "created_at": "2023-09-26T22:54:24.799Z",
+        "updated_at": "2023-09-27T02:21:39.297Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fcd33151-c52b-4b7e-b053-888577aaee4f",
+        "start_date": "2023-09-27T12:32:15.749Z",
+        "end_date": "2023-09-27T02:02:20.159Z",
+        "days_taken": 16684,
+        "created_at": "2023-09-27T02:17:52.933Z",
+        "updated_at": "2023-09-26T17:24:32.503Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9fc3ca4d-8780-4597-8475-dee86da6651a",
+        "start_date": "2023-09-27T02:32:46.014Z",
+        "end_date": "2023-09-27T04:05:07.464Z",
+        "days_taken": 3788,
+        "created_at": "2023-09-27T14:09:49.761Z",
+        "updated_at": "2023-09-27T03:51:31.329Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "64526120-3b81-42ea-8821-632dcf0468bd",
+        "start_date": "2023-09-27T11:06:21.643Z",
+        "end_date": "2023-09-26T23:51:37.296Z",
+        "days_taken": 40854,
+        "created_at": "2023-09-26T15:48:56.644Z",
+        "updated_at": "2023-09-27T08:45:33.306Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "team_member": [
+      {
+        "id": "82726a6f-40d8-427e-957d-8851710c8d21",
+        "role": "Manager",
+        "join_date": "2023-09-27T01:36:20.286Z",
+        "created_at": "2023-09-26T22:24:09.292Z",
+        "updated_at": "2023-09-27T02:30:58.332Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d25125bc-7c0f-49b2-8427-859c2bdcee2b",
+        "role": "Developer",
+        "join_date": "2023-09-26T20:03:05.284Z",
+        "created_at": "2023-09-27T05:22:30.803Z",
+        "updated_at": "2023-09-27T00:16:57.260Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9c26ccaf-6cb6-4156-9328-6436f3f8658b",
+        "role": "Designer",
+        "join_date": "2023-09-26T23:09:32.780Z",
+        "created_at": "2023-09-27T08:26:05.851Z",
+        "updated_at": "2023-09-26T19:10:23.718Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cb4e0cd6-5f6d-43c3-8c99-ebe5c77119a1",
+        "role": "Analyst",
+        "join_date": "2023-09-26T22:59:22.561Z",
+        "created_at": "2023-09-26T16:40:40.004Z",
+        "updated_at": "2023-09-26T23:26:33.810Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a617c8ae-bcb0-465b-8191-ebcdf1f51a63",
+        "role": "Tester",
+        "join_date": "2023-09-27T07:43:36.265Z",
+        "created_at": "2023-09-27T01:55:30.785Z",
+        "updated_at": "2023-09-27T03:32:27.187Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "19c185d7-6802-4fed-8561-d6f70b28825e",
+        "gross_pay": 40950,
+        "net_pay": 77211,
+        "taxes": 68137,
+        "deductions": 57172,
+        "pay_period": "2023-09-26T16:21:00.758Z",
+        "created_at": "2023-09-27T04:02:58.403Z",
+        "updated_at": "2023-09-27T13:13:11.206Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "338d5608-6466-4b75-803f-73915a412ada",
+        "gross_pay": 90233,
+        "net_pay": 12786,
+        "taxes": 29795,
+        "deductions": 72074,
+        "pay_period": "2023-09-27T07:43:25.952Z",
+        "created_at": "2023-09-26T15:57:36.514Z",
+        "updated_at": "2023-09-27T02:18:28.884Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0ecd2ad1-1828-471a-9289-5e1bab1abcd7",
+        "gross_pay": 34592,
+        "net_pay": 32825,
+        "taxes": 73204,
+        "deductions": 13553,
+        "pay_period": "2023-09-26T21:30:22.883Z",
+        "created_at": "2023-09-26T15:11:46.581Z",
+        "updated_at": "2023-09-27T04:46:11.398Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ed23c7bb-fa55-48f7-9727-139ac9d785df",
+        "gross_pay": 96766,
+        "net_pay": 94882,
+        "taxes": 47685,
+        "deductions": 43451,
+        "pay_period": "2023-09-27T02:11:51.171Z",
+        "created_at": "2023-09-26T22:57:14.994Z",
+        "updated_at": "2023-09-27T00:06:24.658Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a99cde3-ee0f-48d2-b8d8-ed59f4e077c1",
+        "gross_pay": 24423,
+        "net_pay": 36772,
+        "taxes": 83781,
+        "deductions": 98943,
+        "pay_period": "2023-09-27T07:10:55.855Z",
+        "created_at": "2023-09-27T11:42:12.134Z",
+        "updated_at": "2023-09-27T02:26:42.172Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee_data": [
+      {
+        "id": "58b56394-712f-45db-8792-752d311e5426",
+        "job_title": "Software Engineer",
+        "start_date": "2023-09-27T03:27:08.240Z",
+        "end_date": "2023-09-26T20:06:55.695Z",
+        "salary": 14239,
+        "created_at": "2023-09-27T12:55:44.484Z",
+        "updated_at": "2023-09-26T16:24:11.894Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d7e2422-0b33-471c-a3cc-c586ae555752",
+        "job_title": "Marketing Specialist",
+        "start_date": "2023-09-26T18:11:33.373Z",
+        "end_date": "2023-09-26T15:52:29.729Z",
+        "salary": 50639,
+        "created_at": "2023-09-26T19:12:14.530Z",
+        "updated_at": "2023-09-27T13:23:49.921Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "592f481c-83c2-48d4-8910-74300a3c683f",
+        "job_title": "Sales Manager",
+        "start_date": "2023-09-27T05:33:03.329Z",
+        "end_date": "2023-09-27T12:45:09.304Z",
+        "salary": 98735,
+        "created_at": "2023-09-27T08:31:39.256Z",
+        "updated_at": "2023-09-27T14:08:09.923Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3dd82e28-830a-469e-a9ba-ee0e35fcd748",
+        "job_title": "Financial Analyst",
+        "start_date": "2023-09-27T10:50:14.561Z",
+        "end_date": "2023-09-27T06:57:40.714Z",
+        "salary": 28800,
+        "created_at": "2023-09-27T09:44:25.347Z",
+        "updated_at": "2023-09-27T09:42:35.952Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c3513f24-f0b7-4949-9d28-e69f3feb6bae",
+        "job_title": "Product Manager",
+        "start_date": "2023-09-27T08:00:07.398Z",
+        "end_date": "2023-09-27T00:34:05.249Z",
+        "salary": 76131,
+        "created_at": "2023-09-27T14:04:57.882Z",
+        "updated_at": "2023-09-26T15:21:14.727Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "53b0a936-7b69-4006-9362-ce91805850cc",
+        "email": "Makenna13@roq.tech",
+        "firstName": "Myrtle",
+        "lastName": "Adams",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/211.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "24aa225d-2c25-44ce-b37a-5f52e18df970",
+        "email": "Hailie.Altenwerth68@roq.tech",
+        "firstName": "Aileen",
+        "lastName": "Walter",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76044801",
+        "tenantId": null
+      },
+      {
+        "reference": "e96a8a2c-f8e1-4f43-836f-266e1a1735ef",
+        "email": "Jeanie53@roq.tech",
+        "firstName": "Carli",
+        "lastName": "Wilderman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/160.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "83799c1d-76eb-4566-b547-65e7736edffa",
+        "email": "Alba_Gulgowski@roq.tech",
+        "firstName": "Hadley",
+        "lastName": "Koss",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49635336",
+        "tenantId": null
+      },
+      {
+        "reference": "c2b623fe-074b-4f1e-95f7-fb97c5d7f1ed",
+        "email": "Bettye.Christiansen@roq.tech",
+        "firstName": "Korbin",
+        "lastName": "Schowalter",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/806.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "2b9c8435-ee01-4b00-bfd7-4441a4dec246",
+        "start_date": "2023-09-26T23:10:58.757Z",
+        "end_date": "2023-09-27T13:21:41.796Z",
+        "days_taken": 34567,
+        "created_at": "2023-09-27T10:49:12.682Z",
+        "updated_at": "2023-09-27T02:18:53.524Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ba13b7e5-6052-4c5d-8c12-3862973090b1",
+        "start_date": "2023-09-27T10:16:37.539Z",
+        "end_date": "2023-09-27T11:58:23.325Z",
+        "days_taken": 75929,
+        "created_at": "2023-09-27T08:20:30.357Z",
+        "updated_at": "2023-09-26T21:30:12.872Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7b46d6ec-5365-4730-a2cb-16bba8086803",
+        "start_date": "2023-09-26T18:38:01.961Z",
+        "end_date": "2023-09-27T02:48:41.918Z",
+        "days_taken": 10128,
+        "created_at": "2023-09-27T00:35:42.490Z",
+        "updated_at": "2023-09-27T09:12:34.870Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b533fdc9-255f-4e97-8fa2-75a371142232",
+        "start_date": "2023-09-27T04:55:12.681Z",
+        "end_date": "2023-09-26T15:51:05.613Z",
+        "days_taken": 97176,
+        "created_at": "2023-09-27T10:25:58.123Z",
+        "updated_at": "2023-09-27T14:18:37.379Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1423bc9e-b67a-424f-a380-915e2d4677c0",
+        "start_date": "2023-09-26T17:33:14.203Z",
+        "end_date": "2023-09-27T05:11:52.141Z",
+        "days_taken": 9877,
+        "created_at": "2023-09-27T03:30:06.355Z",
+        "updated_at": "2023-09-27T07:32:32.271Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "team_member": [
+      {
+        "id": "4c3609cb-dd17-4e24-97cc-59c92b57e072",
+        "role": "Manager",
+        "join_date": "2023-09-27T00:46:04.564Z",
+        "created_at": "2023-09-27T14:20:43.300Z",
+        "updated_at": "2023-09-27T02:24:20.107Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d2aa70ef-db88-471c-be02-b6d310d2ef65",
+        "role": "Developer",
+        "join_date": "2023-09-27T05:04:26.314Z",
+        "created_at": "2023-09-26T20:41:19.478Z",
+        "updated_at": "2023-09-27T01:28:19.369Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3a3761fd-8571-4811-9740-28d22d82f68e",
+        "role": "Designer",
+        "join_date": "2023-09-27T05:46:27.047Z",
+        "created_at": "2023-09-26T19:31:56.128Z",
+        "updated_at": "2023-09-26T15:56:19.810Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2faa1fa2-6b11-4d28-91bc-f2b0d3147988",
+        "role": "Analyst",
+        "join_date": "2023-09-26T18:14:29.265Z",
+        "created_at": "2023-09-27T07:12:18.417Z",
+        "updated_at": "2023-09-26T18:05:46.945Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d0fd094c-1b16-4db6-bdcc-23e482c3c98e",
+        "role": "Coordinator",
+        "join_date": "2023-09-27T00:03:40.377Z",
+        "created_at": "2023-09-27T02:55:57.239Z",
+        "updated_at": "2023-09-27T06:20:42.380Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "f3433f79-6052-4979-aaac-0942449f03d0",
+        "gross_pay": 83962,
+        "net_pay": 39781,
+        "taxes": 27861,
+        "deductions": 23543,
+        "pay_period": "2023-09-26T21:04:26.428Z",
+        "created_at": "2023-09-27T05:48:11.439Z",
+        "updated_at": "2023-09-27T11:06:08.892Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cc8fbfa5-84f3-40ad-932e-c4812a57d246",
+        "gross_pay": 63451,
+        "net_pay": 95377,
+        "taxes": 8713,
+        "deductions": 52596,
+        "pay_period": "2023-09-27T08:20:22.703Z",
+        "created_at": "2023-09-26T18:27:11.001Z",
+        "updated_at": "2023-09-27T09:45:07.976Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "87249fbb-e464-4041-8cf7-cc796c8b61d8",
+        "gross_pay": 5494,
+        "net_pay": 54481,
+        "taxes": 49440,
+        "deductions": 75308,
+        "pay_period": "2023-09-27T05:52:50.426Z",
+        "created_at": "2023-09-26T19:41:41.768Z",
+        "updated_at": "2023-09-27T07:14:11.849Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d2220efd-742f-4f23-9444-6789ddef92ac",
+        "gross_pay": 74859,
+        "net_pay": 12310,
+        "taxes": 11689,
+        "deductions": 1737,
+        "pay_period": "2023-09-27T10:20:30.997Z",
+        "created_at": "2023-09-27T12:23:45.206Z",
+        "updated_at": "2023-09-27T13:53:25.311Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b27afafa-e6d8-43c1-b6ce-2a615bcfccaf",
+        "gross_pay": 78975,
+        "net_pay": 92284,
+        "taxes": 45586,
+        "deductions": 60424,
+        "pay_period": "2023-09-26T16:15:43.626Z",
+        "created_at": "2023-09-27T12:39:44.628Z",
+        "updated_at": "2023-09-26T19:07:47.229Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee_data": [
+      {
+        "id": "cdba8b18-dfae-4c32-9c14-c4f2c720fa80",
+        "job_title": "Software Engineer",
+        "start_date": "2023-09-26T14:39:19.813Z",
+        "end_date": "2023-09-27T11:04:42.662Z",
+        "salary": 70857,
+        "created_at": "2023-09-27T04:44:06.195Z",
+        "updated_at": "2023-09-26T18:54:11.488Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "22e3baa1-4d64-450c-a2d9-870da20ba93e",
+        "job_title": "Marketing Specialist",
+        "start_date": "2023-09-26T20:26:53.124Z",
+        "end_date": "2023-09-26T19:03:29.632Z",
+        "salary": 37265,
+        "created_at": "2023-09-27T12:57:49.438Z",
+        "updated_at": "2023-09-27T10:45:00.780Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "357bb81a-d9c8-40e3-bc7a-23db0f94f6be",
+        "job_title": "Sales Representative",
+        "start_date": "2023-09-27T13:11:25.613Z",
+        "end_date": "2023-09-27T00:58:55.507Z",
+        "salary": 99752,
+        "created_at": "2023-09-26T17:41:08.463Z",
+        "updated_at": "2023-09-26T20:28:42.137Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f4f967d3-63e4-4fcd-bd43-7584fc042843",
+        "job_title": "Financial Analyst",
+        "start_date": "2023-09-26T17:31:20.732Z",
+        "end_date": "2023-09-27T08:31:33.654Z",
+        "salary": 97431,
+        "created_at": "2023-09-27T10:52:45.587Z",
+        "updated_at": "2023-09-27T09:50:34.409Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4c06ea2a-76de-4cc0-9441-575ba1de962f",
+        "job_title": "Product Manager",
+        "start_date": "2023-09-27T03:01:59.352Z",
+        "end_date": "2023-09-26T23:54:52.441Z",
+        "salary": 34028,
+        "created_at": "2023-09-27T09:56:04.443Z",
+        "updated_at": "2023-09-27T07:55:21.431Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8a8973be-5d6e-4ce6-b55c-1bd67fe1193b",
+        "email": "Dave_Baumbach45@roq.tech",
+        "firstName": "Cielo",
+        "lastName": "Corwin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/893.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3623b157-3c2d-462f-9a6a-48dba068580c",
+        "email": "Rahsaan_Williamson41@roq.tech",
+        "firstName": "Judy",
+        "lastName": "Armstrong",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28682198",
+        "tenantId": null
+      },
+      {
+        "reference": "d1498160-d04b-4863-9e2c-e6707923b27d",
+        "email": "Ansley.Kris9@roq.tech",
+        "firstName": "Ettie",
+        "lastName": "Littel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27348692",
+        "tenantId": null
+      },
+      {
+        "reference": "9578ccf8-7410-4699-b90e-4e038eeaf3c6",
+        "email": "Cornelius60@roq.tech",
+        "firstName": "Alfredo",
+        "lastName": "Renner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1046.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cda2e6d7-abba-4e08-9910-b5de22118091",
+        "email": "Reginald_Feeney72@roq.tech",
+        "firstName": "Horacio",
+        "lastName": "Ward",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93349493",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "883d34d8-67f9-4338-9b68-dda56c5d6d25",
+        "start_date": "2023-09-27T07:04:19.564Z",
+        "end_date": "2023-09-27T00:55:35.480Z",
+        "days_taken": 81998,
+        "created_at": "2023-09-27T09:31:34.813Z",
+        "updated_at": "2023-09-27T06:37:20.660Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7e43da33-cd28-4f3d-a26a-5422bd25eddf",
+        "start_date": "2023-09-27T13:18:25.086Z",
+        "end_date": "2023-09-27T13:01:16.563Z",
+        "days_taken": 80670,
+        "created_at": "2023-09-27T11:49:52.918Z",
+        "updated_at": "2023-09-26T14:40:58.588Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ebe1c3eb-6b5d-451d-aafd-6a80852d318e",
+        "start_date": "2023-09-26T21:37:16.038Z",
+        "end_date": "2023-09-26T18:44:30.362Z",
+        "days_taken": 39598,
+        "created_at": "2023-09-26T18:00:09.538Z",
+        "updated_at": "2023-09-27T10:21:38.434Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "42def195-c1b2-4331-bb71-f9e06dd9f751",
+        "start_date": "2023-09-27T03:28:39.271Z",
+        "end_date": "2023-09-27T11:28:25.378Z",
+        "days_taken": 66622,
+        "created_at": "2023-09-26T22:41:27.488Z",
+        "updated_at": "2023-09-27T04:52:22.784Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97d35e48-f2d9-4316-b124-608b0879d2cc",
+        "start_date": "2023-09-27T07:11:38.025Z",
+        "end_date": "2023-09-26T15:41:01.341Z",
+        "days_taken": 6199,
+        "created_at": "2023-09-26T14:29:12.466Z",
+        "updated_at": "2023-09-27T06:34:35.120Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "team_member": [
+      {
+        "id": "95b20717-6296-40ba-b5c2-1bb55064faa5",
+        "role": "Manager",
+        "join_date": "2023-09-26T17:15:00.105Z",
+        "created_at": "2023-09-27T03:30:42.593Z",
+        "updated_at": "2023-09-27T00:10:05.813Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1cd9c127-e9ff-4da3-933b-c72caeba6bc9",
+        "role": "Developer",
+        "join_date": "2023-09-27T14:03:04.718Z",
+        "created_at": "2023-09-26T19:24:37.254Z",
+        "updated_at": "2023-09-27T00:22:12.138Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6f46cbc5-ef05-4664-8225-6ab0e2297333",
+        "role": "Designer",
+        "join_date": "2023-09-27T04:05:40.153Z",
+        "created_at": "2023-09-27T10:13:22.667Z",
+        "updated_at": "2023-09-26T15:15:39.468Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eff0b47d-e2bf-4c33-ac2d-a514f14401aa",
+        "role": "Analyst",
+        "join_date": "2023-09-27T06:59:24.532Z",
+        "created_at": "2023-09-26T16:16:16.108Z",
+        "updated_at": "2023-09-27T00:39:46.578Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c2ab0d9c-092a-4625-ac22-7e7755bfb1db",
+        "role": "Coordinator",
+        "join_date": "2023-09-27T09:27:57.337Z",
+        "created_at": "2023-09-27T10:14:33.684Z",
+        "updated_at": "2023-09-27T02:54:18.191Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "86071d56-b6ee-4bc8-bfb3-8a8c38c69924",
+        "gross_pay": 40626,
+        "net_pay": 85127,
+        "taxes": 8004,
+        "deductions": 9707,
+        "pay_period": "2023-09-27T11:20:10.284Z",
+        "created_at": "2023-09-26T22:58:26.003Z",
+        "updated_at": "2023-09-27T13:04:10.571Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1b4907f5-3a31-4ac7-9bd5-22b3865eca11",
+        "gross_pay": 29197,
+        "net_pay": 3427,
+        "taxes": 84484,
+        "deductions": 26951,
+        "pay_period": "2023-09-27T10:57:21.368Z",
+        "created_at": "2023-09-27T11:34:42.011Z",
+        "updated_at": "2023-09-27T04:31:54.843Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fe5ad2eb-0e44-439d-a6d2-a33d3373e695",
+        "gross_pay": 45512,
+        "net_pay": 11318,
+        "taxes": 34274,
+        "deductions": 90122,
+        "pay_period": "2023-09-27T01:35:48.537Z",
+        "created_at": "2023-09-27T11:26:00.373Z",
+        "updated_at": "2023-09-27T08:05:01.130Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de243ead-d717-4e33-9c49-8fc1ace3d4c6",
+        "gross_pay": 5427,
+        "net_pay": 30932,
+        "taxes": 91142,
+        "deductions": 11369,
+        "pay_period": "2023-09-27T07:45:08.650Z",
+        "created_at": "2023-09-27T04:07:32.001Z",
+        "updated_at": "2023-09-27T06:49:24.199Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e8438bf-b2e2-4456-8e38-22e2a1b36f55",
+        "gross_pay": 13410,
+        "net_pay": 69545,
+        "taxes": 17113,
+        "deductions": 26128,
+        "pay_period": "2023-09-26T16:42:48.203Z",
+        "created_at": "2023-09-27T11:47:58.348Z",
+        "updated_at": "2023-09-27T06:08:24.395Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee_data": [
+      {
+        "id": "0a1e6e7a-f97e-4137-9fa9-01aa71f1ffde",
+        "job_title": "Software Engineer",
+        "start_date": "2023-09-26T21:22:44.401Z",
+        "end_date": "2023-09-27T04:39:26.427Z",
+        "salary": 91752,
+        "created_at": "2023-09-26T15:45:42.420Z",
+        "updated_at": "2023-09-27T09:30:47.161Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3042d51e-6797-4286-9abe-9b819d6a1670",
+        "job_title": "Marketing Specialist",
+        "start_date": "2023-09-27T11:41:14.777Z",
+        "end_date": "2023-09-27T11:44:02.982Z",
+        "salary": 45041,
+        "created_at": "2023-09-27T04:41:48.271Z",
+        "updated_at": "2023-09-26T17:59:48.274Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e92c4e98-fc3a-4702-8a15-4dc8a7f6f273",
+        "job_title": "Sales Manager",
+        "start_date": "2023-09-27T03:56:14.389Z",
+        "end_date": "2023-09-27T07:30:31.256Z",
+        "salary": 44507,
+        "created_at": "2023-09-27T12:14:30.266Z",
+        "updated_at": "2023-09-27T10:10:43.546Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a32505a-64ff-4f08-9692-6226ea6d77d5",
+        "job_title": "Product Manager",
+        "start_date": "2023-09-27T13:23:50.033Z",
+        "end_date": "2023-09-27T02:27:34.189Z",
+        "salary": 54328,
+        "created_at": "2023-09-27T02:04:41.234Z",
+        "updated_at": "2023-09-26T19:57:26.608Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "25fe7235-36e8-4558-b6fe-c58ec3ab181d",
+        "job_title": "Financial Analyst",
+        "start_date": "2023-09-26T23:40:32.422Z",
+        "end_date": "2023-09-27T13:02:43.708Z",
+        "salary": 16671,
+        "created_at": "2023-09-26T19:39:53.204Z",
+        "updated_at": "2023-09-26T22:38:43.706Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "945ec07d-622e-48bc-b4d3-2b6bf4d256ee",
+        "email": "Lois_Kunde@roq.tech",
+        "firstName": "Johnson",
+        "lastName": "Shanahan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58388218",
+        "tenantId": null
+      },
+      {
+        "reference": "82138ac4-a769-40d7-8dac-943b6c7d8f91",
+        "email": "London_Ankunding39@roq.tech",
+        "firstName": "Jailyn",
+        "lastName": "Lockman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1063.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0741e22c-4313-4fe1-a015-a63ad25fac3b",
+        "email": "Gaetano7@roq.tech",
+        "firstName": "Rozella",
+        "lastName": "Thiel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/302.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ae7df5be-1b50-4502-abc4-0b38d336b2c1",
+        "email": "Adan3@roq.tech",
+        "firstName": "Audrey",
+        "lastName": "Ebert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/545.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "30d8a9b2-d8d0-4b85-9460-8b2d2019749c",
+        "email": "Ethelyn_Rogahn@roq.tech",
+        "firstName": "Lora",
+        "lastName": "Stark-Mohr",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41176455",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "dab5c385-009d-4abc-b33c-bc777659909f",
+        "start_date": "2023-09-26T15:27:20.628Z",
+        "end_date": "2023-09-27T12:59:45.824Z",
+        "days_taken": 62990,
+        "created_at": "2023-09-26T19:31:26.988Z",
+        "updated_at": "2023-09-26T23:32:07.921Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5033ed88-d6b9-463c-9524-893cf377686b",
+        "start_date": "2023-09-26T21:08:01.384Z",
+        "end_date": "2023-09-27T13:31:26.399Z",
+        "days_taken": 53072,
+        "created_at": "2023-09-27T11:45:45.765Z",
+        "updated_at": "2023-09-27T04:02:51.068Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bd66b868-98af-4d4d-999c-08e7e88cc844",
+        "start_date": "2023-09-27T06:29:18.792Z",
+        "end_date": "2023-09-27T07:25:33.073Z",
+        "days_taken": 46102,
+        "created_at": "2023-09-27T04:22:20.443Z",
+        "updated_at": "2023-09-26T15:08:02.576Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "60b6955a-d71d-4398-8e16-cfe572d64219",
+        "start_date": "2023-09-26T16:29:52.365Z",
+        "end_date": "2023-09-26T17:54:21.935Z",
+        "days_taken": 46688,
+        "created_at": "2023-09-27T04:21:21.259Z",
+        "updated_at": "2023-09-26T15:14:05.023Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "245b84c3-e409-49cd-8e58-22cbeb14dc54",
+        "start_date": "2023-09-27T06:23:08.898Z",
+        "end_date": "2023-09-26T16:31:50.282Z",
+        "days_taken": 77505,
+        "created_at": "2023-09-27T01:52:23.994Z",
+        "updated_at": "2023-09-27T13:56:26.418Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "team_member": [
+      {
+        "id": "cbf354fe-fb84-4057-9dee-9128740dca87",
+        "role": "Manager",
+        "join_date": "2023-09-26T19:34:16.276Z",
+        "created_at": "2023-09-27T04:17:27.015Z",
+        "updated_at": "2023-09-26T22:03:28.219Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "997fef6f-1ad0-4fee-800b-eaf06d1d2252",
+        "role": "Developer",
+        "join_date": "2023-09-26T18:18:25.921Z",
+        "created_at": "2023-09-27T02:39:28.597Z",
+        "updated_at": "2023-09-26T18:51:02.523Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f5397c86-b654-4303-9955-f43c885e22ad",
+        "role": "Designer",
+        "join_date": "2023-09-27T07:25:39.846Z",
+        "created_at": "2023-09-26T15:11:22.846Z",
+        "updated_at": "2023-09-27T11:58:25.007Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5e4326cf-722b-4e88-aa4e-f72998697be2",
+        "role": "Analyst",
+        "join_date": "2023-09-26T14:51:30.761Z",
+        "created_at": "2023-09-27T13:13:43.826Z",
+        "updated_at": "2023-09-27T02:44:31.507Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6c3f6110-afab-4bc5-8b18-27090fe4ef10",
+        "role": "Coordinator",
+        "join_date": "2023-09-27T00:46:20.222Z",
+        "created_at": "2023-09-27T13:09:34.071Z",
+        "updated_at": "2023-09-27T08:54:59.049Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "21bc5992-225a-406c-a9e9-5fc89a0ee3f0",
+        "gross_pay": 43244,
+        "net_pay": 93957,
+        "taxes": 12859,
+        "deductions": 95370,
+        "pay_period": "2023-09-26T19:07:39.731Z",
+        "created_at": "2023-09-26T20:50:31.976Z",
+        "updated_at": "2023-09-26T22:17:44.598Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cb9c27b0-4e33-4d18-afe4-febb385b82cb",
+        "gross_pay": 37856,
+        "net_pay": 11181,
+        "taxes": 33590,
+        "deductions": 72463,
+        "pay_period": "2023-09-26T23:59:35.618Z",
+        "created_at": "2023-09-27T05:04:31.501Z",
+        "updated_at": "2023-09-27T01:18:44.472Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a3b4247-6ef6-46da-a87e-3c23311b3787",
+        "gross_pay": 23594,
+        "net_pay": 66511,
+        "taxes": 2396,
+        "deductions": 6217,
+        "pay_period": "2023-09-27T13:40:33.246Z",
+        "created_at": "2023-09-27T02:29:41.276Z",
+        "updated_at": "2023-09-27T02:36:44.479Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "95198376-acc0-4332-99dc-9d708cea5b9f",
+        "gross_pay": 46982,
+        "net_pay": 5354,
+        "taxes": 74050,
+        "deductions": 9453,
+        "pay_period": "2023-09-27T09:51:45.043Z",
+        "created_at": "2023-09-27T11:00:06.450Z",
+        "updated_at": "2023-09-27T05:22:47.291Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "afbe2109-b300-4a95-96fb-3845557542ef",
+        "gross_pay": 51313,
+        "net_pay": 92376,
+        "taxes": 89313,
+        "deductions": 11634,
+        "pay_period": "2023-09-26T23:56:26.709Z",
+        "created_at": "2023-09-26T23:47:36.045Z",
+        "updated_at": "2023-09-26T21:26:30.197Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee_data": [
+      {
+        "id": "b0e776ef-691b-4d18-9ff7-9c3fc07747c9",
+        "job_title": "Software Engineer",
+        "start_date": "2023-09-27T08:48:51.162Z",
+        "end_date": "2023-09-27T02:30:49.688Z",
+        "salary": 95777,
+        "created_at": "2023-09-27T13:03:15.747Z",
+        "updated_at": "2023-09-26T20:33:50.267Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5e2493ae-2488-430a-9609-6bcf3eb4658d",
+        "job_title": "Marketing Specialist",
+        "start_date": "2023-09-27T14:19:10.361Z",
+        "end_date": "2023-09-27T09:44:41.632Z",
+        "salary": 60733,
+        "created_at": "2023-09-27T03:45:19.323Z",
+        "updated_at": "2023-09-26T16:59:36.927Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b5c643fd-db21-4d1c-9873-a263da623d43",
+        "job_title": "Financial Analyst",
+        "start_date": "2023-09-27T11:19:22.449Z",
+        "end_date": "2023-09-27T07:42:47.045Z",
+        "salary": 46234,
+        "created_at": "2023-09-26T15:37:49.411Z",
+        "updated_at": "2023-09-26T20:14:28.593Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "90c6c5fc-44fb-4ef3-8a92-111e0a6ec447",
+        "job_title": "Product Manager",
+        "start_date": "2023-09-27T09:04:31.634Z",
+        "end_date": "2023-09-26T20:20:21.619Z",
+        "salary": 97727,
+        "created_at": "2023-09-27T03:54:58.406Z",
+        "updated_at": "2023-09-26T15:38:49.300Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c9cf1b08-f20c-4023-b237-bcd663133883",
+        "job_title": "Operations Coordinator",
+        "start_date": "2023-09-27T03:56:13.493Z",
+        "end_date": "2023-09-27T07:29:21.950Z",
+        "salary": 18188,
+        "created_at": "2023-09-26T14:57:48.437Z",
+        "updated_at": "2023-09-27T05:45:39.155Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b2d7433a-541c-48fd-acf3-2e9ff8837d3c",
+        "email": "Jaden.Conroy@roq.tech",
+        "firstName": "Kiel",
+        "lastName": "Krajcik",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/360.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a3331009-eeda-4d4d-bffd-c3c3f963e4ca",
+        "email": "Donato.Fritsch@roq.tech",
+        "firstName": "Geo",
+        "lastName": "Jerde",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49333847",
+        "tenantId": null
+      },
+      {
+        "reference": "a8f9b9a7-df32-4f43-b08c-475bd4a83bcd",
+        "email": "Domenica60@roq.tech",
+        "firstName": "Jerrold",
+        "lastName": "Greenfelder",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/450.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c8653a96-f2e9-41ed-a81e-bed21e379586",
+        "email": "Jensen.Dibbert66@roq.tech",
+        "firstName": "Keagan",
+        "lastName": "Kirlin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/653.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f02bc2f9-4a2e-47fe-a003-240d6afc4588",
+        "email": "Emily.Rowe84@roq.tech",
+        "firstName": "Demario",
+        "lastName": "Jacobs",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49615758",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "61dc827a-2e99-480b-a4ad-8f9eb8be3216",
+        "start_date": "2023-09-27T13:13:35.637Z",
+        "end_date": "2023-09-27T12:00:15.543Z",
+        "days_taken": 84646,
+        "created_at": "2023-09-27T02:00:57.140Z",
+        "updated_at": "2023-09-27T05:51:49.646Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "01eeecb9-34af-4287-997f-27da6db6bb93",
+        "start_date": "2023-09-26T23:23:41.154Z",
+        "end_date": "2023-09-27T03:01:18.952Z",
+        "days_taken": 15741,
+        "created_at": "2023-09-27T11:34:31.155Z",
+        "updated_at": "2023-09-27T01:25:12.000Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "99aeec38-c614-4a8c-9a92-2b1d1a8df4d2",
+        "start_date": "2023-09-27T01:15:20.127Z",
+        "end_date": "2023-09-27T04:11:23.792Z",
+        "days_taken": 60019,
+        "created_at": "2023-09-27T08:21:23.093Z",
+        "updated_at": "2023-09-27T05:28:06.777Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "532d2868-0533-4f37-85d6-8bd9eada3e77",
+        "start_date": "2023-09-27T07:54:47.759Z",
+        "end_date": "2023-09-26T21:51:46.810Z",
+        "days_taken": 26831,
+        "created_at": "2023-09-26T20:12:25.760Z",
+        "updated_at": "2023-09-26T19:13:10.054Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b3a4f915-97d3-4776-8912-efbb4429d295",
+        "start_date": "2023-09-27T05:45:12.075Z",
+        "end_date": "2023-09-27T02:10:53.572Z",
+        "days_taken": 29022,
+        "created_at": "2023-09-26T17:47:37.526Z",
+        "updated_at": "2023-09-27T13:50:13.658Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "team_member": [
+      {
+        "id": "7db4ac56-c374-4953-9063-47c8a058168d",
+        "role": "Manager",
+        "join_date": "2023-09-27T12:13:07.103Z",
+        "created_at": "2023-09-26T19:31:04.207Z",
+        "updated_at": "2023-09-26T20:30:12.504Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f4dd207a-9539-4ae4-b430-36aff0297253",
+        "role": "Team Lead",
+        "join_date": "2023-09-26T16:47:31.584Z",
+        "created_at": "2023-09-27T09:03:46.532Z",
+        "updated_at": "2023-09-26T18:29:59.491Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "57c2ba41-abbe-41a6-b145-3ade09a1baaa",
+        "role": "Developer",
+        "join_date": "2023-09-27T03:44:53.452Z",
+        "created_at": "2023-09-27T02:23:36.812Z",
+        "updated_at": "2023-09-26T23:01:28.907Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "658b71c0-f940-4cd6-82c9-36b7dc2e73e8",
+        "role": "Sales Representative",
+        "join_date": "2023-09-26T22:56:40.885Z",
+        "created_at": "2023-09-27T14:11:46.845Z",
+        "updated_at": "2023-09-27T14:08:29.866Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2c5bb85c-bac0-4b47-a8e5-6d0787d6f5e4",
+        "role": "HR Specialist",
+        "join_date": "2023-09-26T22:12:53.258Z",
+        "created_at": "2023-09-27T00:23:11.787Z",
+        "updated_at": "2023-09-26T18:42:16.300Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "c971384b-d920-4db4-b2f0-bd3a4167d403",
+        "gross_pay": 21410,
+        "net_pay": 64011,
+        "taxes": 30567,
+        "deductions": 26125,
+        "pay_period": "2023-09-27T09:36:49.846Z",
+        "created_at": "2023-09-27T10:45:44.525Z",
+        "updated_at": "2023-09-27T01:05:13.999Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "62a3ba89-6b35-423c-ab2f-097d4b3ffdfc",
+        "gross_pay": 74167,
+        "net_pay": 72737,
+        "taxes": 24019,
+        "deductions": 83228,
+        "pay_period": "2023-09-26T22:58:35.466Z",
+        "created_at": "2023-09-26T19:11:11.749Z",
+        "updated_at": "2023-09-27T03:43:06.453Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9654131c-51e5-467c-b28f-824868d11772",
+        "gross_pay": 68254,
+        "net_pay": 89468,
+        "taxes": 59332,
+        "deductions": 39911,
+        "pay_period": "2023-09-27T06:53:13.324Z",
+        "created_at": "2023-09-26T17:50:13.010Z",
+        "updated_at": "2023-09-27T06:44:51.201Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "848d4bca-2673-4e17-be92-8767ce732513",
+        "gross_pay": 52396,
+        "net_pay": 16389,
+        "taxes": 44705,
+        "deductions": 64067,
+        "pay_period": "2023-09-27T12:28:59.642Z",
+        "created_at": "2023-09-26T15:27:21.496Z",
+        "updated_at": "2023-09-26T23:35:18.223Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a2f52606-4a12-4220-a23d-c74cd70490a7",
+        "gross_pay": 27540,
+        "net_pay": 67353,
+        "taxes": 5739,
+        "deductions": 9758,
+        "pay_period": "2023-09-26T20:32:37.113Z",
+        "created_at": "2023-09-26T18:27:28.910Z",
+        "updated_at": "2023-09-26T19:26:01.389Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee_data": [
+      {
+        "id": "eec57184-f31c-4a6c-a8e0-c10875f37422",
+        "job_title": "Software Engineer",
+        "start_date": "2023-09-26T22:18:50.885Z",
+        "end_date": "2023-09-26T23:49:50.467Z",
+        "salary": 21415,
+        "created_at": "2023-09-27T06:13:59.240Z",
+        "updated_at": "2023-09-26T23:39:21.254Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0ed37a26-72a4-4cd6-8d59-b9e271f93886",
+        "job_title": "Marketing Manager",
+        "start_date": "2023-09-27T10:23:26.008Z",
+        "end_date": "2023-09-26T17:28:39.586Z",
+        "salary": 8956,
+        "created_at": "2023-09-26T17:51:08.937Z",
+        "updated_at": "2023-09-27T14:28:21.236Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a0367706-99f3-4523-8aae-43943faef6d4",
+        "job_title": "Sales Executive",
+        "start_date": "2023-09-26T23:35:21.641Z",
+        "end_date": "2023-09-26T16:35:18.863Z",
+        "salary": 2087,
+        "created_at": "2023-09-27T09:59:46.928Z",
+        "updated_at": "2023-09-26T21:58:04.967Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4e67a76f-db6a-4294-b72b-b80a000ac4ca",
+        "job_title": "Financial Analyst",
+        "start_date": "2023-09-27T08:19:00.124Z",
+        "end_date": "2023-09-26T22:32:11.845Z",
+        "salary": 84707,
+        "created_at": "2023-09-26T19:41:18.721Z",
+        "updated_at": "2023-09-27T09:18:55.305Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dad163d6-e0ec-48ae-b74d-958bc4dd7b2f",
+        "job_title": "HR Coordinator",
+        "start_date": "2023-09-26T18:52:38.691Z",
+        "end_date": "2023-09-26T14:33:21.721Z",
+        "salary": 49667,
+        "created_at": "2023-09-27T12:50:05.341Z",
+        "updated_at": "2023-09-27T13:47:51.249Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a5aa44eb-6c58-40b9-870e-32ac679a9128",
+        "email": "Jamal.Collins2@roq.tech",
+        "firstName": "Raphaelle",
+        "lastName": "Will",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/353.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cdce1c0a-59f1-4643-8c31-59d8a54da9d3",
+        "email": "Gavin73@roq.tech",
+        "firstName": "Lea",
+        "lastName": "Corwin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4954225",
+        "tenantId": null
+      },
+      {
+        "reference": "9a9ee487-b5b3-47cc-851d-1fa3b62e6881",
+        "email": "Dominic34@roq.tech",
+        "firstName": "Asa",
+        "lastName": "Lynch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22929988",
+        "tenantId": null
+      },
+      {
+        "reference": "9453c6b8-fd9c-48e6-818c-b497dcd8d1b2",
+        "email": "Rafaela30@roq.tech",
+        "firstName": "Roma",
+        "lastName": "Bednar",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/533.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d21c4239-b8dd-4ca2-9068-3237ec6ab55e",
+        "email": "Eldridge.Ferry60@roq.tech",
+        "firstName": "Valerie",
+        "lastName": "Sawayn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76019673",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "b8ec4a9f-6c75-4604-bd48-896126de1815",
+        "start_date": "2023-09-26T19:43:42.764Z",
+        "end_date": "2023-09-27T05:14:52.425Z",
+        "days_taken": 19116,
+        "created_at": "2023-09-27T09:53:38.162Z",
+        "updated_at": "2023-09-26T18:08:08.560Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "52a0307d-2402-4108-8322-db032a8b599f",
+        "start_date": "2023-09-26T16:09:55.024Z",
+        "end_date": "2023-09-27T06:46:43.772Z",
+        "days_taken": 37777,
+        "created_at": "2023-09-27T10:54:11.926Z",
+        "updated_at": "2023-09-27T04:29:22.852Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee2bfdfe-02aa-4def-aaf3-f7bfcd27ad1f",
+        "start_date": "2023-09-27T02:26:13.701Z",
+        "end_date": "2023-09-26T17:50:42.121Z",
+        "days_taken": 23578,
+        "created_at": "2023-09-27T08:58:39.296Z",
+        "updated_at": "2023-09-27T11:29:34.738Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9f626459-874b-42b5-ae4d-faab1f0e292a",
+        "start_date": "2023-09-27T10:08:22.417Z",
+        "end_date": "2023-09-27T02:01:13.297Z",
+        "days_taken": 9546,
+        "created_at": "2023-09-27T01:00:09.691Z",
+        "updated_at": "2023-09-27T08:59:44.146Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dd40cdad-8322-4c5b-a768-c3a808307034",
+        "start_date": "2023-09-26T20:17:53.893Z",
+        "end_date": "2023-09-27T10:25:18.383Z",
+        "days_taken": 50246,
+        "created_at": "2023-09-27T13:01:50.478Z",
+        "updated_at": "2023-09-27T12:12:49.098Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "team_member": [
+      {
+        "id": "b6be16e8-b747-4396-9b85-d9d26f3a64b7",
+        "role": "Manager",
+        "join_date": "2023-09-26T17:36:52.338Z",
+        "created_at": "2023-09-27T13:34:17.984Z",
+        "updated_at": "2023-09-26T16:02:51.434Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b114ec90-821f-488c-b031-d4f69580c333",
+        "role": "Supervisor",
+        "join_date": "2023-09-26T19:12:48.046Z",
+        "created_at": "2023-09-26T23:39:37.920Z",
+        "updated_at": "2023-09-26T16:23:55.145Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8cac8778-88c6-4b80-957a-bdf5a46b1502",
+        "role": "Team Lead",
+        "join_date": "2023-09-27T09:48:04.991Z",
+        "created_at": "2023-09-27T10:33:01.414Z",
+        "updated_at": "2023-09-26T18:36:13.156Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "61a5e73c-b6ac-4065-a9c8-2985cb0479c1",
+        "role": "Associate",
+        "join_date": "2023-09-27T05:37:22.892Z",
+        "created_at": "2023-09-26T18:08:30.480Z",
+        "updated_at": "2023-09-27T02:10:17.301Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "41e5d5d5-7af1-415a-9026-e665b499ae91",
+        "role": "Intern",
+        "join_date": "2023-09-26T23:10:33.930Z",
+        "created_at": "2023-09-27T06:29:07.786Z",
+        "updated_at": "2023-09-27T01:01:16.497Z",
+        "team_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "3de2f722-8260-4c06-9cb3-c2ea5f9826a6",
+        "gross_pay": 62369,
+        "net_pay": 86631,
+        "taxes": 56763,
+        "deductions": 32734,
+        "pay_period": "2023-09-27T14:03:12.950Z",
+        "created_at": "2023-09-26T18:01:21.944Z",
+        "updated_at": "2023-09-27T01:02:22.022Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3aee843f-ac70-41e9-b9a5-2cdaace4cb6b",
+        "gross_pay": 15545,
+        "net_pay": 74273,
+        "taxes": 30490,
+        "deductions": 29499,
+        "pay_period": "2023-09-27T05:45:40.042Z",
+        "created_at": "2023-09-27T13:06:20.407Z",
+        "updated_at": "2023-09-27T13:16:54.327Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8cc7646-7dea-4c58-9ce2-ab3752efff35",
+        "gross_pay": 85064,
+        "net_pay": 74840,
+        "taxes": 14963,
+        "deductions": 50863,
+        "pay_period": "2023-09-27T05:13:19.409Z",
+        "created_at": "2023-09-26T23:16:43.010Z",
+        "updated_at": "2023-09-26T22:11:43.163Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "498d051e-0bc3-4d9d-ab17-e8e36a2d02c3",
+        "gross_pay": 13957,
+        "net_pay": 67142,
+        "taxes": 32237,
+        "deductions": 98901,
+        "pay_period": "2023-09-27T13:21:57.061Z",
+        "created_at": "2023-09-26T16:49:31.082Z",
+        "updated_at": "2023-09-26T22:58:16.534Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f0669df1-dd65-4c8a-9009-18cd715df192",
+        "gross_pay": 12658,
+        "net_pay": 74458,
+        "taxes": 66466,
+        "deductions": 98683,
+        "pay_period": "2023-09-27T12:32:34.078Z",
+        "created_at": "2023-09-27T05:10:51.177Z",
+        "updated_at": "2023-09-26T17:24:46.053Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee_data": [
+      {
+        "id": "7a6fc1e6-1e20-4077-882d-74eeadbe3e18",
+        "job_title": "Software Engineer",
+        "start_date": "2023-09-27T10:35:03.845Z",
+        "end_date": "2023-09-26T21:17:23.954Z",
+        "salary": 577,
+        "created_at": "2023-09-26T21:45:34.210Z",
+        "updated_at": "2023-09-27T12:37:00.799Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8d281547-56e0-4f19-906e-decfef0722e3",
+        "job_title": "Product Manager",
+        "start_date": "2023-09-27T09:07:00.105Z",
+        "end_date": "2023-09-27T12:36:52.023Z",
+        "salary": 72136,
+        "created_at": "2023-09-26T16:00:31.544Z",
+        "updated_at": "2023-09-26T17:35:30.936Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dc3b9876-76f4-4e9b-9553-2f811a5a92e1",
+        "job_title": "Accountant",
+        "start_date": "2023-09-26T21:32:19.456Z",
+        "end_date": "2023-09-27T04:53:04.405Z",
+        "salary": 13779,
+        "created_at": "2023-09-27T11:25:07.341Z",
+        "updated_at": "2023-09-27T09:00:53.864Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6324e614-c560-43b6-b4e5-a4e020ea11e2",
+        "job_title": "HR Specialist",
+        "start_date": "2023-09-27T01:31:47.556Z",
+        "end_date": "2023-09-27T06:07:44.013Z",
+        "salary": 66615,
+        "created_at": "2023-09-27T06:13:06.760Z",
+        "updated_at": "2023-09-27T00:33:20.577Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "74e7b967-1466-416a-8c08-956df65807b5",
+        "job_title": "Marketing Analyst",
+        "start_date": "2023-09-27T00:51:40.508Z",
+        "end_date": "2023-09-26T18:47:45.563Z",
+        "salary": 55376,
+        "created_at": "2023-09-26T18:10:59.881Z",
+        "updated_at": "2023-09-26T15:05:05.155Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "94d3ac15-9b46-489a-a431-cb20cbafa427",
+        "email": "Lulu.Schiller21@roq.tech",
+        "firstName": "Fredy",
+        "lastName": "Dicki",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/705.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "24ffd996-fed2-415e-b98b-97db3e7daae4",
+        "email": "Naomi17@roq.tech",
+        "firstName": "Eldridge",
+        "lastName": "Effertz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/808.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ce391cab-f483-428c-bd3f-595a87ac22be",
+        "email": "Forrest_Bauch34@roq.tech",
+        "firstName": "Jane",
+        "lastName": "Abernathy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/548.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "09bcb692-87cc-48ca-9a9e-861173818217",
+        "email": "Enos.Bins@roq.tech",
+        "firstName": "Aracely",
+        "lastName": "Medhurst",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/12.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "485e1fcf-16ff-48a9-ab5a-e172c2d34469",
+        "email": "Linnea64@roq.tech",
+        "firstName": "Mike",
+        "lastName": "Bahringer-Cartwright",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1018.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
